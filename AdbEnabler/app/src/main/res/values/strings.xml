@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADB TV Enabler</string>
+    <string name="title">ADB TV Enabler</string>
+    <string name="subtitle">Управление ADB и системными настройками</string>
+    <string name="ip_label">IP телевизора: </string>
+    <string name="status_label">Статус порта 5555: </string>
+    <string name="root_label">Root (SU): </string>
+    <string name="checking">Проверка...</string>
+    <string name="btn_activate">🚀 Включить ADB (Порт 5555)</string>
+    <string name="btn_dev_settings">⚙️ Настройки разработчика</string>
+    <string name="btn_wireless_debug">📶 Беспроводная отладка (Android 11+)</string>
+    <string name="btn_factory_menu">🛠 Инженерное / Заводское меню</string>
+    <string name="btn_all_settings">📱 Все настройки Android</string>
+    <string name="btn_refresh">🔄 Обновить статус</string>
+</resources>
